@@ -8,12 +8,26 @@
     width: 25%;
     padding: 10px;
     height: 300px; 
-    background-color: gray;
-  }
+    }
   
+    .Column1 {
+      background-color: lightcoral;
+    }
+
+    .Column2 {
+      background-color: lightgreen;
+    }
+
+    .Column3 {
+      background-color: lightseagreen;
+    }
+
+    .Column4 {
+      background-color: lightskyblue;
+    }
  
-  .row:after {
+  /* .row:after {
     content: "";
     display: table;
     clear: both;
-  }
+  } */
